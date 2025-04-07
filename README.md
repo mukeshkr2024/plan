@@ -101,9 +101,6 @@ Admins can search and filter freelancers based on:
 - hub.cloudprism.in
 - gigs.cloudprism.in
 
-
-Absolutely! Here's the **database schema** structured in **tabular format** for better visibility, followed by the **API endpoints** in table form too.
-
 ---
 
 ## 📦 Database Design (Tables)
